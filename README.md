@@ -6,7 +6,11 @@ c. Jquery<br>
 d. AJAX<br>
 e. PostgreSQL<br>
 
+
+
 The following operations are performed on this project:<br>
+
+
 a. CRUD operations on tweets<br>
 b. User requied login Auth Verfication<br>
 c. User profile created<br>
